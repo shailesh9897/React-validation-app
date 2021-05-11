@@ -1,4 +1,4 @@
-# React-modal-app
+# React-Validation-app
 This project is created using the basic terminology of react Like <br>
 1.Reusable components in react <br>
 2.useState <br>
